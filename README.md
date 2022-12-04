@@ -1,7 +1,7 @@
 <h1> Script Stealer !</h1> 
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1039243152487362620/1041283112065310730/meme.png" width="400"></img>
+<img src="[https://media.discordapp.net/attachments/1039243152487362620/1041283112065310730/meme.png](https://media.discordapp.net/attachments/1048792813573255190/1048888583177633852/2192ea6f0a5857fec82440f41262045e.jpg)" width="400"></img>
   </kbd>
 </p>
 
